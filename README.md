@@ -9,12 +9,15 @@ Original repository: https://github.com/ingsw2022-AM37/ingsw2022-AM37
 
 ### Starting game
 
+If the game won't launch with this procedure, new build is needed.
+
 1) In order to launch the **server** you have to go with terminal in its jar folder and
    write: `java -jar nameJar.jar --port port`
     - `--port` is an optional field.
 
 2) In order to launch the **client** you have two options:
     - Repeat the same procedure and write `java -jar jarName.jar --graphics gui --address address --port port`
-    - Double-click on the file for playing with graphics.
         - `--address` and `--port` are optional fields.
         - You can write `cli` instead of `gui`.
+    - Double-click on the file for playing with graphics.
+        
