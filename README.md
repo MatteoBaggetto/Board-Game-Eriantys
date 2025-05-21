@@ -5,7 +5,7 @@ It was done thanks to the collaboration between Cranio Creations and Politecnico
 All copyright reserved. 
 
 This is a re-upload to my personal account. Other team members: https://github.com/PolCeru https://github.com/bramba2000
-Original repo: https://github.com/ingsw2022-AM37/ingsw2022-AM37
+Original repository: https://github.com/ingsw2022-AM37/ingsw2022-AM37
 
 ### Starting game
 
