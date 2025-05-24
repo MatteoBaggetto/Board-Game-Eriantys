@@ -9,7 +9,7 @@ Original repository: https://github.com/ingsw2022-AM37/ingsw2022-AM37
 
 ### Starting game
 
-If the game won't launch with this procedure, new build is needed.
+If the game won't launch with this procedure, new build is needed due to incompatible Java version.
 
 1) In order to launch the **server** you have to go with terminal to deliverables/JAR, select the server folder and
    write: `java -jar nameJar.jar --port port`
