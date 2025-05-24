@@ -1,4 +1,4 @@
-# Eryantis
+# Eriantys
 
 Multiplayer videogame reproducing Eriantys, a table game created by Cranio Creations. 
 It was done thanks to the collaboration between Cranio Creations and Politecnico di Milano for my bachelor's thesis. 
